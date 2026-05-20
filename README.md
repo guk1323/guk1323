@@ -1,23 +1,23 @@
 # 🐮 Hunguk Son (aka coweyesoup)
 
 Hi! I'm a master's student at Kyung Hee University 🇰🇷  
-Currently researching Biophotonics, AI-driven biosensors, and nanostructure engineering.
+Researching SERS, nanoparticles, and optical biosensors.
 
-I enjoy building creative projects that combine science, coding, and automation.
+I also enjoy building coding side projects involving automation, APIs, and blockchain.
 
 ---
 
 ## 🔬 Research Interests
 - Surface-Enhanced Raman Spectroscopy (SERS)
 - Gold nanoparticle biosensors
+- Optical sensing & nanostructures
 - AI-assisted bio-signal analysis
-- Nanostructure fabrication & optical sensing
 
 ---
 
 ## 🔧 Projects
 - 🤖 PUBG Discord Bot using Puppeteer and the official PUBG API
-- 🧪 SERS-based gold nanoparticle biosensor platform
+- 🧪 SERS-based gold nanoparticle biosensor experiments
 - 🌐 ERC-20 token coweyesoup deployed on Ethereum
 
 ---
