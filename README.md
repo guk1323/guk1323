@@ -1,18 +1,32 @@
-# 🐮 HunGuk Son (a.k.a. coweyesoup)
+# 🐮 Hunguk Son (aka coweyesoup)
 
-Hi! I'm a graduate student at Kyung Hee University 🇰🇷  
-Currently researching **Bio-Photonics**, **AI-based biosensors**, and **nanostructure engineering**.
+Hi! I'm a master's student at Kyung Hee University 🇰🇷  
+Currently researching Biophotonics, AI-driven biosensors, and nanostructure engineering.
 
-I love coding, creative projects, and of course — soup with cow eyes (coweyesoup 🥣😉)
+I enjoy building creative projects that combine science, coding, and automation.
 
-### 🔧 Projects
-- 🤖 PUBG Discord Bot (with Puppeteer and official API)
-- 🧪 SERS-based gold nanoparticle biosensor experiments
-- 🌐 ERC-20 token named `coweyesoup` deployed on Ethereum
+---
 
-### ⚡ Tech Stack
-`Python` `Node.js` `Puppeteer` `Solidity` `Discord.js` `MATLAB`
+## 🔬 Research Interests
+- Surface-Enhanced Raman Spectroscopy (SERS)
+- Gold nanoparticle biosensors
+- AI-assisted bio-signal analysis
+- Nanostructure fabrication & optical sensing
 
-### 📫 Contact
+---
+
+## 🔧 Projects
+- 🤖 PUBG Discord Bot using Puppeteer and the official PUBG API
+- 🧪 SERS-based gold nanoparticle biosensor platform
+- 🌐 ERC-20 token coweyesoup deployed on Ethereum
+
+---
+
+## ⚡ Tech Stack
+Python MATLAB Node.js Puppeteer Discord.js Solidity
+
+---
+
+## 📫 Contact
 📧 guk1323@naver.com  
-🌐 [GitHub Profile](https://github.com/guk1323)
+🌐 GitHub Profile
