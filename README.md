@@ -1,4 +1,4 @@
-# 🐮 Hunguk Son (aka coweyesoup)
+# 🐮 Sonhunguk (a.k.a coweyesoup)
 
 Hi! I'm a master's student at Kyung Hee University 🇰🇷  
 Researching SERS, nanoparticles, and optical biosensors.
